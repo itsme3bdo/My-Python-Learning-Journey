@@ -7,7 +7,7 @@ How It Works
 
 This project is a showcase of the core building blocks of HTML and CSS that I learned:
 
-HTML Structure: I used HTML to create the basic structure of the web page, including the <h1>, <p>, and <img> tags to add a heading, a paragraph, and an image to the page.
+HTML Structure: I used HTML to create the basic structure of the web page, which included elements like a main heading, a paragraph, and an image.
 
 CSS Styling: I used CSS to style the web page, including adding a background color, changing the fonts, and centering the content on the page.
 
